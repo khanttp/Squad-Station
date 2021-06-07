@@ -1,0 +1,58 @@
+* {
+  margin:0;
+}
+
+.app{
+  background-color: #fafafa;
+}
+
+.app_header {
+  position:sticky;
+  top:0;
+  z-index: 1;
+  background-color: white;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+  object-fit: contain;
+  display: flex;
+  justify-content: space-between;
+}
+
+.app_header_image{
+  object-fit: contain;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  height: 100px;
+  width: 120px;
+}
+
+.app__posts{
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.app__signup{
+  display: flex;
+  flex-direction: column;
+}
+
+.app__loginContainer{
+  padding-top: 40px;
+}
+
+#login__msg{
+  padding-top: 20px;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  font-weight: 500;
+}
+
+#welcome__msg{
+  font-style: normal;
+  white-space: nowrap;
+  justify-content: center;
+  display: flex;
+  padding-top: 10%;
+}
