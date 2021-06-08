@@ -5,8 +5,18 @@ This this a react app that allows the uploading of images, adding caption, and c
 Frontend: React
 Backend: Firebase
 
+##### Features to Add:
+  - customizable user profile
+  - remove posts/comments 
+
+
 
 # DEMO
 
-![Uploading Images](https://github.com/khanttp/Squad-Station/blob/master/uploding.gif)
+###### Uploading Images
+![](https://github.com/khanttp/Squad-Station/blob/master/uploding.gif)
+
+###### Commenting 
+![](https://github.com/khanttp/Squad-Station/blob/master/commenting.gif)
+
 
