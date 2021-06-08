@@ -21,3 +21,10 @@ Backend: Firebase
 ![](https://github.com/khanttp/Squad-Station/blob/master/commenting.gif)
 
 
+# Screenshots
+
+##### For Login
+![](https://github.com/khanttp/Squad-Station/blob/master/login-modal.png)
+
+#### For Sign-up
+![](https://github.com/khanttp/Squad-Station/blob/master/signup-modal.png)
